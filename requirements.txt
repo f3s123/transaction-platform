@@ -1,0 +1,6 @@
+Flask
+flask
+Flask-SocketIO
+Flask-WTF
+bcrypt
+MarkupSafe
